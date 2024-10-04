@@ -1,0 +1,22 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "character": "Homer Simpson",
+      "quote": "D'oh!",
+      "image": "https://example.com/homer.png"
+    },
+    {
+      "id": 2,
+      "character": "Marge Simpson",
+      "quote": "Hmm...",
+      "image": "https://example.com/marge.png"
+    },
+    {
+      "id": 3,
+      "character": "Bart Simpson",
+      "quote": "Eat my shorts!",
+      "image": "https://example.com/bart.png"
+    }
+  ]
+}
